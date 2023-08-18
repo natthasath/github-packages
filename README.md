@@ -6,10 +6,18 @@ Github Packages: Host, publish, and manage your software packages using GitHub r
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🥈 Run
+### 🚀 Setup
+
+- Docker Login
+
+```
+docker login ghcr.io --username phanatic --password-stdin
+```
+
+### 🏆 Run
 
 - [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ```shell
-docker-compose up -d
+docker run --name github-packages -p 8000:8000 -d ghcr.io/natthasath/github-packages:main
 ```

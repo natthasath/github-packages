@@ -1,6 +1,6 @@
-# 🎉 Docker Python FastAPI
+# 🎉 Github Packages
 
-FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. It has a simple and easy to use API, is lightweight, and includes features like asynchronous support, dependency injection, and more.
+Github Packages: Host, publish, and manage your software packages using GitHub repositories. Simplify dependency management and streamline your development workflow.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
